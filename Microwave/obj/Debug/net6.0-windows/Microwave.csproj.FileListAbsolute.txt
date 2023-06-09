@@ -1,0 +1,60 @@
+C:\Users\Lucas\3D Objects\Microwave\Microwave\bin\Debug\net6.0-windows\Microwave.exe
+C:\Users\Lucas\3D Objects\Microwave\Microwave\bin\Debug\net6.0-windows\Microwave.deps.json
+C:\Users\Lucas\3D Objects\Microwave\Microwave\bin\Debug\net6.0-windows\Microwave.runtimeconfig.json
+C:\Users\Lucas\3D Objects\Microwave\Microwave\bin\Debug\net6.0-windows\Microwave.dll
+C:\Users\Lucas\3D Objects\Microwave\Microwave\bin\Debug\net6.0-windows\Microwave.pdb
+C:\Users\Lucas\3D Objects\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.csproj.AssemblyReference.cache
+C:\Users\Lucas\3D Objects\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.Form1.resources
+C:\Users\Lucas\3D Objects\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.Properties.Resources.resources
+C:\Users\Lucas\3D Objects\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.csproj.GenerateResource.cache
+C:\Users\Lucas\3D Objects\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\3D Objects\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.AssemblyInfoInputs.cache
+C:\Users\Lucas\3D Objects\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.AssemblyInfo.cs
+C:\Users\Lucas\3D Objects\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\3D Objects\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.dll
+C:\Users\Lucas\3D Objects\Microwave\Microwave\obj\Debug\net6.0-windows\refint\Microwave.dll
+C:\Users\Lucas\3D Objects\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.pdb
+C:\Users\Lucas\3D Objects\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.genruntimeconfig.cache
+C:\Users\Lucas\3D Objects\Microwave\Microwave\obj\Debug\net6.0-windows\ref\Microwave.dll
+C:\Users\Lucas\3D Objects\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.Form2.resources
+C:\Users\Lucas\3D Objects\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.Form3.resources
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\bin\Debug\net6.0-windows\Microwave.exe
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\bin\Debug\net6.0-windows\Microwave.deps.json
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\bin\Debug\net6.0-windows\Microwave.runtimeconfig.json
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\bin\Debug\net6.0-windows\Microwave.dll
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\bin\Debug\net6.0-windows\Microwave.pdb
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.csproj.AssemblyReference.cache
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.Form1.resources
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.Form2.resources
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.Form3.resources
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.Properties.Resources.resources
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.csproj.GenerateResource.cache
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.AssemblyInfoInputs.cache
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.AssemblyInfo.cs
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.dll
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\refint\Microwave.dll
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.pdb
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.genruntimeconfig.cache
+C:\Users\Lucas\3D Objects\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\ref\Microwave.dll
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\bin\Debug\net6.0-windows\Microwave.exe
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\bin\Debug\net6.0-windows\Microwave.deps.json
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\bin\Debug\net6.0-windows\Microwave.runtimeconfig.json
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\bin\Debug\net6.0-windows\Microwave.dll
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\bin\Debug\net6.0-windows\Microwave.pdb
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.csproj.AssemblyReference.cache
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.Form1.resources
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.Form2.resources
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.Form3.resources
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.Properties.Resources.resources
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.csproj.GenerateResource.cache
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.AssemblyInfoInputs.cache
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.AssemblyInfo.cs
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.dll
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\refint\Microwave.dll
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.pdb
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\Microwave.genruntimeconfig.cache
+C:\Users\Lucas\Music\Nova pasta\Microwave Otto\Microwave\Microwave\obj\Debug\net6.0-windows\ref\Microwave.dll
